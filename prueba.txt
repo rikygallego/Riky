@@ -1,2 +1,4 @@
 Mi nuevo archivo. 
 haciendo un error - modificación.
+
+nueva linea
