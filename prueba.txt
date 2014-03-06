@@ -1,8 +1,6 @@
-
 bien o que señores
 linea 3
-<<<<<<< HEAD
 rober de niro de jesus
-=======
 elimine la linea 1
->>>>>>> 625f23607814612e514e08f3585b132d4d81f102
+
+Juan reportandose al lado de Rober alias Robocop
