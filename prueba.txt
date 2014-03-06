@@ -8,4 +8,4 @@ elimine la linea 1
 aaaaaaaaaaaaa
 aqui quite el error
 
-Tomar tinto fumar que proboca juan?
+Tomar tinto y fumar que proboca juan?
