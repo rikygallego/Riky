@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-=======
 rober
 ricardo gallego
 juan david lopez
 edison mejia estrada
-
->>>>>>> 2cfc92c68810ff74a8c3bc9a5bd904a1efb3d261
