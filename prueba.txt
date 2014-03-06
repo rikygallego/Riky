@@ -1,4 +1,11 @@
-
 bien o que señores
 linea 3
+<<<<<<< HEAD
 elimine ldaa linea 1
+=======
+rober de niro de jesus
+elimine la linea 1
+
+>>>>>>> 4213de68c90ea968cf1c83a0fc8e776c47bc6e97
+
+Tomar tinto fumar que proboca juan?
